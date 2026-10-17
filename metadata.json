@@ -1,0 +1,6 @@
+{
+  "name": "Brain Teasers",
+  "description": "Android brain teasers, riddles, math puzzles, logic challenges, and lateral thinking with streaks, daily challenge, and local progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
